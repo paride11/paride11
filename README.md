@@ -2,7 +2,7 @@
 
 🧘🏻‍♂️ I'm Paride from Salento, Italy.
 
-🚀 Here I upload and share projects I find interesting—have fun!
+🚀 Here I upload and share projects I find interesting!
 
 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/paride-lauretti-a68036291) or check my [personal site](https://paridelauretti.notion.site/Hi-there-2baa137de74080b7b149dd2f342a1e02).
 
