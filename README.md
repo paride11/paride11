@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+
+🧘🏻‍♂️ I'm Paride from Salento, Italy.
+
+🚀 Here I upload and share projects I find interesting—have fun!
+
+📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/paride-lauretti-a68036291) or check my [personal site](https://paridelauretti.notion.site/Hi-there-2baa137de74080b7b149dd2f342a1e02).
+
+📝 In my personal site you can also find my personal notes on different topics related to quant finance.
+
+❗ Naming convention: `YYMMDD_repo-name` where the date is the date first created.
 
 <!--
 **paride11/paride11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
