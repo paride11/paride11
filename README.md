@@ -6,7 +6,7 @@
 
 📫 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/paride-lauretti-a68036291) or check my [personal site](https://paridelauretti.notion.site/Hi-there-2baa137de74080b7b149dd2f342a1e02).
 
-❗ Naming convention: `YYMMDD_repo-name` where the date is the date first created.
+❗ Naming convention: `DDMMYY_repo-name` where the date is the date first created.
 
 <!--
 **paride11/paride11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
