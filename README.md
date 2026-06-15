@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🧘🏻‍♂️ I'm Paride from Salento, Italy.
+🧘🏻‍♂️ I'm Paride from Lecce, Italy.
 
 🚀 Here I upload and share projects I find interesting!
 
